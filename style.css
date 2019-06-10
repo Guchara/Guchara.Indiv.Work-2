@@ -1,0 +1,31 @@
+.wrap{
+    margin-top: 300px;
+}
+
+body{
+    background: rgb(255, 255, 102);
+}
+
+.head{
+    padding: 20px;
+    border-bottom: 2px solid rgb(78, 74, 74);
+}
+.head h1{
+    text-align: center;
+    font-size: 60px;
+
+}
+#otvet2{
+    background: red;
+}
+
+.btnn{
+    margin-left: 100px;
+}
+
+.search{
+    margin-left: 100px;
+}
+.hide{
+    display: none;
+}
